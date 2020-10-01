@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="music-library" target="1.8" />
+      <module name="music-library" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
